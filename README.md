@@ -1,4 +1,4 @@
-<img src="assets/banner.png" alt="Banner" style="width:100%;" />
+<img src="assets/newbanner.png" alt="Banner" style="width:100%;" />
 
 # 👋✨ Olá, eu sou < Guilherme /> 💻<span style="animation: blink 1s infinite;">...</span>
 
