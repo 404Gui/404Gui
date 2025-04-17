@@ -1,10 +1,8 @@
-<img src="assets/newbanner.png" alt="Banner" style="width:100%;" />
+<img src="assets/bannerImg.png" alt="Banner" style="width:100%;" />
 
-# 👋✨ Olá, eu sou < Guilherme /> 💻<span style="animation: blink 1s infinite;">...</span>
-### 👾 Seja bem-vindo(a) ao meu GitHub!
+## 👋👾 Olá! Eu sou < Guilherme /> 💻<span style="animation: blink 1s infinite;">...</span>
 
-Aqui você vai encontrar projetos que misturam curiosidade, aprendizado constante e aquele toque pessoal.  
-Sou um desenvolvedor com experiência full-stack e apaixonado por construir coisas e por criar soluções práticas. Atualmente trabalho principalmente com **JavaScript, TypeScript, React, .NET, SQL e Python**, mas gosto de explorar e aprender outras ferramentas e stacks para aplicar em meus projetos.  
+Sou um desenvolvedor com experiência full-stack e apaixonado por construir coisas e por criar soluções práticas. Atualmente trabalho principalmente com **JavaScript, TypeScript, React, .NET, SQL e Python**, mas gosto de explorar e aprender outras ferramentas e stacks para aplicar em meus projetos. Aqui você vai encontrar projetos que misturam curiosidade, aprendizado e aquele toque pessoal.
 
 ---
 
