@@ -1,21 +1,20 @@
-<img src="assets/bannerImg.png" alt="Banner" style="width:100%;" />
+<img src="assets/Banner.png" alt="Banner" style="width:100%;" />
 
-## 👋👾 Olá! Eu sou < Guilherme /> 💻<span style="animation: blink 1s infinite;">...</span>
+## 👾 Hey! I'm < Guilherme /> and I build stuff
 
-Sou um desenvolvedor com experiência full-stack e apaixonado por construir coisas e por criar soluções práticas. Atualmente trabalho principalmente com **JavaScript, TypeScript, React, .NET, SQL e Python**, mas gosto de explorar e aprender outras ferramentas e stacks para aplicar em meus projetos. Aqui você vai encontrar projetos que misturam curiosidade, aprendizado e aquele toque pessoal.
+I’m a full-stack developer and I like building things and creating practical solutions. I currently work mostly with JavaScript, TypeScript, React, .NET, SQL, and Python, but I enjoy exploring and learning other tools and stacks to apply in my projects. Here, you’ll find projects that blend curiosity, learning, and a personal touch.
 
 ---
 
-## 🧰 Principais Tecnologias & Ferramentas
+## 🧰 Main Stacks & Tools
 - **Frontend:** JavaScript, TypeScript, React, Next.js, Figma 
 - **Backend:** .NET, Node, Python
-- **Banco de Dados:** MongoDB, SQL (MySQL, SQL Server, PostgreSQL)  
-- **Outros:** Git, Docker, Postman, CI/CD, etc.
+- **Databases:** MongoDB, SQL (MySQL, SQL Server, PostgreSQL)  
+- **Others:** DevOps, AWS, Git, Docker, Postman, CI/CD
 
 ---
 
-## 📫 Fale comigo!
+## 📫 Get in Touch!
 
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://pappi.dev)
+[![Portfolio](https://img.shields.io/badge/Portf%C3%B3lio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://pappi.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilherme-pappi)
-[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermepappi@gmail.com)
