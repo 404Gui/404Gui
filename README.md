@@ -1,4 +1,4 @@
-<img src="assets/Banner.png" alt="Banner" style="width:100%;" />
+<img src="assets/bannergit.png" alt="Banner" style="width:100%;" />
 
 ## 👾 Hey! I'm < Guilherme /> and I build stuff
 
